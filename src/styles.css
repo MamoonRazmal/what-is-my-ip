@@ -1,0 +1,16 @@
+.mainpage{
+    background-color: rgb(240, 87, 11);
+    height: 100px;
+    width: 1000px;
+}
+
+.supermain{
+   
+    
+    flex-direction: row;
+}
+.leaflet-container{
+   
+    width: 500px;
+    height: 500px;
+}
